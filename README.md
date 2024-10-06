@@ -8,8 +8,9 @@
     
 </body>
 </html>
-![Screenshot (202)](https://github.com/user-attachments/assets/3ae3f8f4-51cd-4e35-afa9-117de74511d4)
-![Screenshot (191)](https://github.com/user-attachments/assets/a5658174-a17e-4316-919d-dbfcabe1aa73)
+![Screenshot (190)](https://github.com/user-attachments/assets/e508fb3c-cc30-4028-a39f-0ba812e441f3)
+
+
 
 <!--ini adalah paragraf pertama-->
     <p>Kami sedang belajar HTML dasar, pada matakuliah pemograman web di prodi 
@@ -20,8 +21,10 @@
     <p>Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf di buat 
     dengan menggunakan tag dasar html</p>
+![Screenshot (192)](https://github.com/user-attachments/assets/ce7419e7-369c-42ba-b745-a91b32d41557)
+![Screenshot (193)](https://github.com/user-attachments/assets/e5f203b5-f1fd-4765-9312-1f45362b7e23)
 
-![Screenshot (193)](https://github.com/user-attachments/assets/3361eedc-dcdd-4cd1-94e1-d9e561867e41)
+
 
  <!--judul paragraf pertama-->
     <h1>Belajar Dasar HTML</h1>
@@ -34,14 +37,15 @@
     <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf di buat 
     dengan menggunakan tag dasar html</p>
-
-    ![Screenshot (195)](https://github.com/user-attachments/assets/0b512398-db45-4108-9f86-6e0be81614b9)
+![Screenshot (196)](https://github.com/user-attachments/assets/2d5f252d-cbaf-4190-9ba4-0fb47beaf307)
+![Screenshot (195)](https://github.com/user-attachments/assets/b80079c4-b642-4f49-99d4-a18fa99bcb46)
 
     <!--sub judul paragraf-->
     <h3>Menambahkan Gambar</h3>
 
     <!--menambahakan gambar pada dokumen-->
     <img scr= "logo_UPB.png" width="200" title="Logo Universitas Pelita Bangsa">
+![Screenshot (199)](https://github.com/user-attachments/assets/772a9470-d2bb-4f97-bd62-69a17cf151b7)
 
     <!--menambahkan Link navigasi-->
     <nav>
@@ -51,7 +55,7 @@
 </nav>
 
 pertanyaan 
-1. ada error pada saat menyisipkan gambar tidak muncul 
+1. ada error pada saat menambahkan link navigasi
 2. Tag <p>adalah elemen tingkat blok yang mendefinisikan paragraf teks. Saat Anda menggunakan <p>tag, tag tersebut akan membuat blok teks baru yang dipisahkan dari blok sebelumnya dengan baris kosong. Tag ini digunakan untuk mengelompokkan serangkaian kalimat atau paragraf teks menjadi satu.
    Tag <br> adalah elemen sebaris yang membuat jeda baris dalam blok teks. Tag ini tidak membuat blok teks baru, tetapi memutus baris saat ini dan melanjutkan ke baris berikutnya.
 4. Untuk tampilan yang paling profesional dan performa yang optimal, sebaiknya mengisi kedua atribut width dan height. Namun, jika Anda ingin mempertahankan rasio aspek asli gambar dan memiliki fleksibilitas dalam desain responsif, mengisi hanya atribut width bisa menjadi pilihan yang baik.
